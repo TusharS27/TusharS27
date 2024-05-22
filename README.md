@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TusharS27
-- 👀 I like to talk about Finance and have a keen interest Automation with VBA, and also, have interest in data analysis with SSQL & Python
+- 👀 I like to talk about Finance, Fitness and have a keen interest Automation with VBA, and also, in data analysis with SQL & Python
 - 🌱 I’m currently learning Python and PowerBI
 - 💞️ I’m looking to collaborate on projects related to Data analysis and visualisation
 - 📫 You can contact me on tsonparote366@gmail.com
